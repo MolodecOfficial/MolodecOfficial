@@ -60,12 +60,8 @@
 <a href="https://web.telegram.org/@molodec_official" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://web.telegram.org/@molodec_official" target="_blank">
+<a href="https://vk.com/molodec__official" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=lightblue style="margin-bottom: 5px;" />
 </a> 
-<a href="https://web.telegram.org/@molodec_official" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a> 
-https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=lightblue
 </div>  
   
