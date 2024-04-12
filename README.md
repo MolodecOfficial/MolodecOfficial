@@ -1,7 +1,5 @@
-### <div align="center">
-Hi There. I'm Molodec, Frontend Developer 👨‍💻 working since 2023🚀
+### <div align="center">Hi There. I'm Molodec, Frontend Developer 👨‍💻 working since 2023🚀</div>    
 
-</div>    
 - 🔭 I’m currently working on [File Tree on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [Calendar on Vue](https://github.com/MolodecOfficial/Vue-Calendar)    
   
 - 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
