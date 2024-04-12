@@ -1,14 +1,16 @@
 ### <div align="center">Hi There. I'm Molodec, Frontend Developer 👨‍💻 working since 2023🚀</div>    
 
+
+### <div aligh="center"> My journey began with learning basic knowledge of Java <a href="https://www.java.com/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a> and Python <a href="https://www.python.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>. Next, I started studying frontend development. And today I have several projects on Vue <a href="https://vuejs.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30" /></a>, I have a little experience on React <a href="https://reactjs.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>. My GitHub is open for review) 
+ </div>
+
+ 
 - 🔭 I’m currently working on [File Tree on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [Calendar on Vue](https://github.com/MolodecOfficial/Vue-Calendar)    
   
 - 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
   
 <br/>  
 
-
-### <div aligh="center"> My journey began with learning basic knowledge of Java <a href="https://www.java.com/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a> and Python <a href="https://www.python.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>. Next, I started studying frontend development. And today I have several projects on Vue <a href="https://vuejs.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30" /></a>, I have a little experience on React <a href="https://reactjs.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>. My GitHub is open for review) 
- </div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
