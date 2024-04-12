@@ -1,20 +1,16 @@
 ### <div align="center">Hi There. I'm Molodec, Frontend Developer 👨‍💻 working since 2023🚀
 </div>  
   
-
 - 🔭 I’m currently working on [File Tree on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [Calendar on Vue](https://github.com/MolodecOfficial/Vue-Calendar)    
   
-
 - 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
   
-
 <br/>  
+
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### <div align="center"> Frontend  
 <div align="center">  
@@ -62,7 +58,14 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://web.telegram.org/@molodec_official" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://web.telegram.org/@molodec_official" target="_blank">
+<img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=lightblue style="margin-bottom: 5px;" />
+</a> 
+<a href="https://web.telegram.org/@molodec_official" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a> 
+https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=lightblue
 </div>  
   
