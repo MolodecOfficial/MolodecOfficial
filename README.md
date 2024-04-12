@@ -62,6 +62,9 @@
 </a>  
 <a href="https://vk.com/molodec__official" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=lightblue style="margin-bottom: 5px;" />
+</a>
+<a href="(https://discord.com/channels/1195772839266099250/1195772839903625308)" target="_blank">
+<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=blue style="margin-bottom: 5px;" />
 </a> 
 </div>  
   
