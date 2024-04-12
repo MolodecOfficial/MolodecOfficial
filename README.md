@@ -7,6 +7,9 @@
 <br/>  
 
 
+<div>
+  Ьy journey began with learning basic knowledge of Java and Python. Next, I started studying frontend development. And today I have several projects on Vue, I have a little experience on React. My GitHub is open for review)
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
