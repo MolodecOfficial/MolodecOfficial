@@ -60,7 +60,7 @@
 <a href="https://github.com/MolodecOfficial" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://web.telegram.org/@molodec_official" target="_blank">
+<a href="(https://t.me/molodec_official)" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://vk.com/molodec__official" target="_blank">
