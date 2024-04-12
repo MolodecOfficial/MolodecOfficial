@@ -7,7 +7,7 @@
  
 - 🔭 I’m currently working on [File Tree on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [Calendar on Vue](https://github.com/MolodecOfficial/Vue-Calendar)    
   
-- 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
+- 👨‍💻 I mainly use: Intellij IDEA Ultimate <a><img style="margin-top: 10px" src="https://icons8.ru/icon/61466/intellij-idea" alt="Intellij IDEA" height="30" /></a>, VSCode, WebStorm    
   
 <br/>  
 
