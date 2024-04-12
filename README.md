@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Molodec, Frontend Developer 👨‍💻 working since 2023🚀
+### <div align="center">Hi There. I'm Molodec, Frontend Developer 👨‍💻 working since 2023🚀
 </div>  
   
 
