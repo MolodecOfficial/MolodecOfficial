@@ -56,7 +56,7 @@
 
 
 ## Connect with me  
-<a href="https://t.me/molodec_official" target="_blank">
+<a aligh="center" href="https://t.me/molodec_official" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://vk.com/molodec__official" target="_blank">
