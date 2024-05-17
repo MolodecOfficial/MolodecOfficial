@@ -6,7 +6,7 @@
 
  
 - 🔭 I’m currently working on [File Tree on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [Calendar on Vue](https://github.com/MolodecOfficial/Vue-Calendar), [Task List on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [BMPLand ( 
-website for the company ) on Vue](https://github.com/BMPLand/BMPLand-WebSite)
+website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand)
   
 - 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
   
