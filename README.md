@@ -14,7 +14,7 @@ website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand)
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="43%">
 
 ### <div align="center"> Frontend  
 <div align="center">  
