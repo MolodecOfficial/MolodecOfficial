@@ -14,7 +14,7 @@ website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand)
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="43%">
+<table><tr><td valign="top" width="33%">
 
 ### <div align="center"> Frontend  
 <div align="center">  
@@ -28,7 +28,7 @@ website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand)
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="43%">
+</td><td valign="top" width="33%">
 
 
 
@@ -40,7 +40,7 @@ website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand)
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="43%">
+</td><td valign="top" width="33%">
 
 
 
