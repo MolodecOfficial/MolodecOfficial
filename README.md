@@ -5,8 +5,7 @@
  </div>
 
  
-- 🔭 I’m currently working on [File Tree on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [Calendar on Vue](https://github.com/MolodecOfficial/Vue-Calendar), [Task List on Vue](https://github.com/MolodecOfficial/Vue-FileTree), [BMPLand ( 
-website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand), [Canvas on JavaScript](https://github.com/MolodecOfficial/Canvas)
+- 🔭 I’m currently working on [BMPLand ( website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand), [Canvas on JavaScript](https://github.com/MolodecOfficial/Canvas)
   
 - 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
   
