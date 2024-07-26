@@ -7,7 +7,9 @@
  
 - 🔭 I’m currently working on [BMPLand ( website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand), [Canvas on JavaScript](https://github.com/MolodecOfficial/Canvas), [DataBase Connect on Node.js + mySQL](https://github.com/MolodecOfficial/Node.js-Database) 
   
-- 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm    
+- 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm
+  
+- 😃 My Portfolio: 
   
 <br/>  
 
