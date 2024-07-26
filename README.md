@@ -9,7 +9,7 @@
   
 - 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm
   
-### <div aligh="center"> 😃 My Portfolio: https://github.com/MolodecOfficial/MyPortfolio </div>
+### <div aligh="center">😃 My Portfolio: https://github.com/MolodecOfficial/MyPortfolio</div>
   
 <br/>  
 
