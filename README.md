@@ -13,7 +13,9 @@
 ### I have gained significant experience in creating beautiful and functional web applications.
 
 </div>
+
 ---
+
 <div align="center">
 
 ### My portfolio includes several successful projects using:
