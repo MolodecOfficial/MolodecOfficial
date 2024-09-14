@@ -1,10 +1,14 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins%2C+sans+serif&size=40&pause=1000&color=134BF7&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+-+Molo%D0%B4%D0%B5%D1%86+Official;I+am+Junior%2B+Frontend+Developer" alt="Typing SVG" /></a>
 
-### <div aligh="center"> Since 2022, I have been actively involved in frontend development:
+<div align="center">
+
+### Since 2022, I have been actively involved in frontend development:
+
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+</div>
 and have gained significant experience in creating modern web applications. 
 My portfolio includes several successful projects using:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
