@@ -13,19 +13,20 @@ and have gained significant experience in creating modern web applications.
 
 <div aligh="center">
   
-My portfolio includes several successful projects using:
+### My portfolio includes several successful projects using:
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) 
-as well as experience for server-side applications.
 
+as well as experience for server-side applications.
+</div>
 I have mastered TypeScript, which allows me to write more reliable and maintainable code. Additionally, I use TailwindCSS to create responsive and aesthetically pleasing interfaces.
 
 My GitHub is open for viewing, where you can explore my projects and see how I apply my skills in practice.
 
 And today I have several projects on Vue  a experience on 	and now i have experience on TypeScript and TailwindCSS . My GitHub is open for review) 
 
-</div>
+
 
 
 ## My Skill Set  
