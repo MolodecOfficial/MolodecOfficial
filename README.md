@@ -10,7 +10,6 @@
 
 ### and have gained significant experience in creating modern web applications. 
 </div>
-
 <div align="center">
   
 ### My portfolio includes several successful projects using:
