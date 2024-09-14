@@ -2,7 +2,7 @@
 ---
 <div align="center">
 
-# 🌟 Welcome to my world of Frontend Development!
+# 🌟 Welcome to My world of Frontend Development!
 
 ### Since 2022, I have been actively creating modern web applications using:
 
