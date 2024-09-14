@@ -11,7 +11,7 @@
 and have gained significant experience in creating modern web applications. 
 </div>
 
-<div aligh="center">
+<div align="center">
   
 ### My portfolio includes several successful projects using:
 
