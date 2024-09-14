@@ -31,11 +31,10 @@
   
 - **SCSS**: With SCSS, I create responsive and aesthetically pleasing interfaces. Design has become not only simpler but also more fun! 🎨
 
----
-
-### Let's create something amazing together! 💻✨
+## Let's create something amazing together! 💻✨
 
 [🔗 Let see my Portfolio!](https://molodec-official-portfolio.vercel.app/)
+---
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
