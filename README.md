@@ -17,7 +17,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) 
 
-as well as experience for server-side applications.
+### as well as experience for server-side applications.
 </div>
 I have mastered TypeScript, which allows me to write more reliable and maintainable code. Additionally, I use TailwindCSS to create responsive and aesthetically pleasing interfaces.
 
