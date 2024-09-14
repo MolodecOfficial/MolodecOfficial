@@ -1,5 +1,6 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins%2C+sans+serif&size=40&pause=1000&color=134BF7&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+-+Molo%D0%B4%D0%B5%D1%86+Official;I+am+Junior%2B+Frontend+Developer" alt="Typing SVG" /></a>
 ---
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins%2C+sans+serif&size=40&pause=1000&color=134BF7&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+-+Molo%D0%B4%D0%B5%D1%86+Official;I+am+Junior%2B+Frontend+Developer" alt="Typing SVG" /></a>
+
 <div align="center">
 
 # 🌟 Welcome to my world of Frontend Development!
