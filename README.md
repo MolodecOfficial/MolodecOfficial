@@ -2,38 +2,38 @@
 ---
 <div align="center">
 
-# 🌟 Приветствую вас в моем мире фронтенд-разработки!
+# 🌟 Welcome to my world of frontend development!
 
-### С 2022 года я активно занимаюсь созданием современных веб-приложений, используя:
+### Since 2022, I have been actively creating modern web applications using:
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Я приобрел значительный опыт в создании красивых и функциональных веб-приложений. 
+### I have gained significant experience in creating beautiful and functional web applications.
 
 </div>
 
 <div align="center">
-  
-### Мое портфолио включает несколько успешных проектов с использованием:
+
+### My portfolio includes several successful projects using:
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) 
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
-### А также опыт в разработке серверных приложений.
+### As well as experience in backend development.
 
 </div>
 
-## 🚀 Мои Суперсилы
+## 🚀 My Superpowers
 
-- **TypeScript**: Овладев TypeScript, я пишу код, который не только надежен, но и легко поддерживается. Прощай, время отладки! 💪
+- **TypeScript**: By mastering TypeScript, I write code that is not only reliable but also easy to maintain. Goodbye debugging time! 💪
   
-- **SCSS**: С помощью SCSS я создаю адаптивные и эстетически привлекательные интерфейсы. Дизайн стал не только проще, но и веселее! 🎨
+- **SCSS**: With SCSS, I create responsive and aesthetically pleasing interfaces. Design has become not only simpler but also more fun! 🎨
 
 ---
 
-### Давайте создадим что-то потрясающее вместе! 💻✨
+### Let's create something amazing together! 💻✨
 
 [🔗 Загляните в мое портфолио!](https://molodec-official-portfolio.vercel.app/)
 ## My Skill Set  
