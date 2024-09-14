@@ -19,13 +19,12 @@
 
 ### as well as experience for server-side applications.
 </div>
-I have mastered TypeScript, which allows me to write more reliable and maintainable code. Additionally, I use TailwindCSS to create responsive and aesthetically pleasing interfaces.
 
-My GitHub is open for viewing, where you can explore my projects and see how I apply my skills in practice.
+## 🚀 Мои Суперсилы
 
-And today I have several projects on Vue  a experience on 	and now i have experience on TypeScript and TailwindCSS . My GitHub is open for review) 
-
-
+- **TypeScript**: Я овладел TypeScript, и теперь пишу код, который не только надежен, но и легко поддерживается. Прощай, время отладки!
+  
+- **TailwindCSS**: С помощью TailwindCSS я создаю адаптивные и эстетически привлекательные интерфейсы. Дизайн стал не только проще, но и веселее!
 
 
 ## My Skill Set  
