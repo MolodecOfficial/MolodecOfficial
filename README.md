@@ -1,20 +1,19 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins%2C+sans+serif&size=40&pause=1000&color=134BF7&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+-+Molo%D0%B4%D0%B5%D1%86+Official;I+am+Junior%2B+Frontend+Developer" alt="Typing SVG" /></a>
 
-### <div aligh="center"> I started studying frontend development in 2022: 
+### <div aligh="center"> Since 2022, I have been actively involved in frontend development:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-And today I have several projects on Vue <a href="https://vuejs.org/" target="_blank"><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="20" /></a>, a experience on 	![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) and now i have experience on TypeScript <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" /></a> and TailwindCSS <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailWindCSS" height="20" /></a>. My GitHub is open for review) 
- </div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and have gained significant experience in creating modern web applications. 
+My portfolio includes several successful projects using:
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) as well as experience for server-side applications.
 
- 
-- 🔭 I’m currently working on [BMPLand ( website for the company ) on Vue](https://github.com/MolodecOfficial/BMPLand), [Canvas on JavaScript](https://github.com/MolodecOfficial/Canvas), [DataBase Connect on Node.js + mySQL](https://github.com/MolodecOfficial/Node.js-Database) 
-  
-- 👨‍💻 I mainly use: Intellij IDEA Ultimate, VSCode, WebStorm
-  
-### <div aligh="center">😃 My Portfolio: https://molodec-official-portfolio.vercel.app/ </div>
-  
-<br/>  
+I have mastered TypeScript, which allows me to write more reliable and maintainable code. Additionally, I use TailwindCSS to create responsive and aesthetically pleasing interfaces.
+
+My GitHub is open for viewing, where you can explore my projects and see how I apply my skills in practice.
+
+And today I have several projects on Vue  a experience on 	and now i have experience on TypeScript and TailwindCSS . My GitHub is open for review) 
+</div>
 
 
 ## My Skill Set  
